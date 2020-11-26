@@ -16,3 +16,4 @@ MaximumConsecutiveOnes2.class
 MaxLengthSubarrayWithContiguousElements.class
 LongestSubstringWithAtmostKUniqueChar.class
 CountSubstringWithAtmostKUniqueChar.class
+countOfKSumSubarrays.class
