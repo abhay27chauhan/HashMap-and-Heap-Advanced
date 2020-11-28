@@ -19,3 +19,5 @@ CountSubstringWithAtmostKUniqueChar.class
 countOfKSumSubarrays.class
 FindAllAnagramsInString.class
 KAnagrams.class
+FindAnagramMappings.class
+FindAnagramMappings$Pair.class
