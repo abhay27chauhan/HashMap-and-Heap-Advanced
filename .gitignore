@@ -23,4 +23,5 @@ FindAnagramMappings.class
 FindAnagramMappings$Pair.class
 validAnagrams.class
 groupAnagrams.class
-groupShiftedStrings,class
+groupShiftedStrings.class
+wordPattern.class
