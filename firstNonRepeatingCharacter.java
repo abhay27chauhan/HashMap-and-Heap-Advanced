@@ -1,6 +1,6 @@
 // find the index of first non-repeating character
 import java.util.HashMap;
-class forNonRepeatingCharacter{
+class firstNonRepeatingCharacter{
 
     public static int solution(String str){
         HashMap<Character, Integer> map = new HashMap<>();
